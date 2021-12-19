@@ -1,7 +1,7 @@
 
 # HAPPY & SAFE HOUSE
 <img src="https://img.shields.io/badge/삼성청년소프트웨어아카데미(SSAFY) 관통프로젝트 최우수상-0099E5?style=for-the-badge&logo=&logoColor=white"> :trophy: <br>
-공공데이터와 카카오맵 API를 활용한 나에게 딱맞는 안전한 주택 추천 사이트
+공공데이터와 카카오맵 API를 활용한 거주 유형별 안전한 주택 추천 사이트
 <br><br>
 
 # 개발 의도 및 작품소개
